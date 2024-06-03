@@ -10,7 +10,6 @@ body{
     position: relative; 
 }
 
-
 .inst{
     /* background-color: #fff; */
     position: absolute; /* 追加 */
@@ -85,6 +84,8 @@ img {
     margin-bottom: 5px;
 }
 
+
+
 .yen{
     font-size: 13px;
 }
@@ -108,6 +109,10 @@ img {
     
 .price2{
     line-height: 2.4em; /* 行の高さを調整 */
+}
+
+.subtitle{
+  margin-bottom: 3px;
 }
 
 
