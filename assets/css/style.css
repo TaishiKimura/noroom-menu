@@ -1,4 +1,3 @@
-
 body{
     margin: 0;
     width: 100%;
@@ -8,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;   
     position: relative; 
-}
+  }
 
 .inst{
     /* background-color: #fff; */
@@ -114,6 +113,8 @@ img {
 .subtitle{
   margin-bottom: 3px;
 }
+
+
 
 
 /* おしゃれなボタン
